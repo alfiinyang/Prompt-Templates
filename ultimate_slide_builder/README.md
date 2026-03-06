@@ -10,9 +10,9 @@ This repository contains the ultimate prompt templates designed to customize the
 ## Setup Instructions
 
 1.  **Knowledge Base**: Download `slide-builder-template.md` and upload it to the knowledge/files section of your custom model:
-    * **Google Gemini**: "Knowledge"
-    * **ChatGPT**: "Project Sources"
-    * **Claude AI**: "Project Files"
+    * **Gemini Gem**: "Knowledge"
+    * **ChatGPT Project**: "Sources"
+    * **Claude AI Project**: "Files"
 2.  **System Instructions**: Copy the contents of `instructions.txt` and paste them into the **Instructions** or **System Prompt** text area of your custom model.
 
 ## Customization
