@@ -14,9 +14,9 @@ It’s pretty simple: each folder contains a specific tool or workflow. To get s
 
 You are totally free to take these prompts and customize them to fit your specific spec or professional needs! Currently, you can find:
 
-* **Ultimate Slide Builder**: For creating structured, professional presentation content.
-* **Career Planner**: To help you map out and organize your professional growth.
-* **Goals Aligner**: To ensure your daily activities and applications match your big-picture annual plan and experience.
+* **[Ultimate Slide Builder](https://github.com/alfiinyang/Prompt-Templates/tree/main/ultimate_slide_builder)**: For creating structured, professional presentation content.
+* **[Career Planner](https://github.com/alfiinyang/Prompt-Templates/tree/main/career_planner)**: To help you map out and organize your professional growth.
+* **[Goals Aligner](https://github.com/alfiinyang/Prompt-Templates/tree/main/goals_aligner)**: To ensure your daily activities and applications match your big-picture annual plan and experience.
 
 ## 🤝 Let's Make This Better!
 
