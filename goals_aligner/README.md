@@ -16,4 +16,5 @@ Whether you are applying for a job, writing a cover letter, or developing a new 
 3.  **Update Placeholders**: Within the instructions, ensure you replace `goals.pdf` and `cv.pdf` with the actual names of the files you uploaded.
 
 > [!CAUTION]
-> This is a standalone prompt. To be effective, you **must** upload your most recent CV and Annual Plan to your custom model's knowledge base.
+
+> This is **NOT** a standalone prompt. To be effective, you **must** upload your most recent CV and Annual Plan to your custom model's knowledge base.
