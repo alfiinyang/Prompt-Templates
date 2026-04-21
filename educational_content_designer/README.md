@@ -2,11 +2,10 @@
 
 This repository contains prompt templates designed to customize an Educational Content Designer LLM for creating YouTube-style visual learning slides for children.
 
-<p align = "center">
-  | Sample 1 | Sample 2 |
-  | :---: | :---: |
-  | <img src="./sample_slides/boy_n_robot_xray.gif" width="300"> | <img src="./sample_slides/intro_animation.gif" width="300"> |
-</p>
+| Sample 1 | Sample 2 |
+| :---: | :---: |
+| <img src="./sample_slides/boy_n_robot_xray.gif" width="500"> | <img src="./sample_slides/intro_animation.gif" width="500"> |
+
 
 ## File Overview
 
